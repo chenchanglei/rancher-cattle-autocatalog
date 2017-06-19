@@ -1,8 +1,8 @@
-name:  lynx
+name:  Lynx
 description: |
    lynx image
 version:  1.0.0
 category:  WEB
 maintainer:  Chen Changlei
-license:  Apache 2
+license: NetQin
 projectURL: https://github.com/chenchanglei/rancher-cattle-autocatalog.git

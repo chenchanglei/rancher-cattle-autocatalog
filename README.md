@@ -1,2 +1,2 @@
-# rancher-cattle-autocatalog
-rancher custom catalog auto-create
+# rancher-cattle-catalog
+rancher custom catalog lynx
