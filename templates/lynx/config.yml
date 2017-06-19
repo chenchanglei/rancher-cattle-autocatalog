@@ -1,6 +1,6 @@
-name:  nginx
+name:  lynx
 description: |
-   nginx image
+   lynx image
 version:  1.0.0
 category:  WEB
 maintainer:  Chen Changlei

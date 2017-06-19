@@ -1,0 +1,3 @@
+#  nginx image
+lynx:
+  image:  lynx
